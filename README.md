@@ -1,6 +1,6 @@
 # Excel to Neo4j Model
 This project allows to export excel data as a NeoCore model to Neo4j.
-NeoCore is a representation of model in a Neo4j database.
+NeoCore is a technique to represent models in a Neo4j database.
 The generated model can then be transformed using Triple Graph Grammars.
 See [eMoflon::Neo](https://github.com/eMoflon/emoflon-neo) for more details on NeoCore and for model transformation.
 
